@@ -1,0 +1,67 @@
+[
+    {
+
+       
+
+
+      "title": "The Future of AI: What's Next?",
+      "thumbImage": " https://i.ibb.co/s3cmm1x/image1.jpg",
+      "author": {
+        "name": "Jane Doe",
+        "image": "https://i.ibb.co/hmSKhhp/profile.png"
+      },
+      "readingTime": "5 min read",
+      "publishDate": "2024-07-20",
+      "hashtags": ["#AI", "#FutureTech", "#Innovation"],
+      "blogDetails": "Artificial Intelligence is rapidly evolving. In this blog, we explore upcoming trends, potential applications, and the ethical considerations that come with advanced AI technologies."
+    },
+    {
+      "title": "Top 10 Travel Destinations for 2024",
+      "thumbImage": "https://i.ibb.co/mvstKzt/image2.jpg",
+      "author": {
+        "name": "John Smith",
+        "image": "https://i.ibb.co/hmSKhhp/profile.png"
+      },
+      "readingTime": "7 min read",
+      "publishDate": "2024-07-15",
+      "hashtags": ["#Travel", "#Destinations", "#Vacation"],
+      "blogDetails": "From serene beaches to bustling cities, discover the top travel spots for the upcoming year. This guide offers a mix of luxury, adventure, and relaxation destinations perfect for every type of traveler."
+    },
+    {
+      "title": "Mastering the Art of Home Cooking",
+      "thumbImage": "https://i.ibb.co/5TMHBF3/image3.jpg",
+      "author": {
+        "name": "Emily White",
+        "image": "https://i.ibb.co/hmSKhhp/profile.png"
+      },
+      "readingTime": "6 min read",
+      "publishDate": "2024-07-10",
+      "hashtags": ["#Cooking", "#Recipes", "#HomeCooking"],
+      "blogDetails": "Enhance your culinary skills with our tips and recipes for home cooking. Learn techniques, discover new ingredients, and create meals that will impress both your family and friends."
+    },
+    {
+      "title": "Understanding Blockchain Technology",
+      "thumbImage": "https://i.ibb.co/98WpGbN/image4.jpg",
+      "author": {
+        "name": "Michael Lee",
+        "image": "https://i.ibb.co/hmSKhhp/profile.png"
+      },
+      "readingTime": "8 min read",
+      "publishDate": "2024-07-05",
+      "hashtags": ["#Blockchain", "#Tech", "#Finance"],
+      "blogDetails": "Blockchain technology has far-reaching implications beyond cryptocurrencies. This post delves into how blockchain works, its applications across different sectors, and its potential to disrupt traditional systems."
+    },
+    {
+      "title": "Fitness Trends to Watch in 2024",
+      "thumbImage": "https://i.ibb.co/98WpGbN/image4.jpg",
+      "author": {
+        "name": "Sarah Johnson",
+        "image": "https://i.ibb.co/hmSKhhp/profile.png"
+      },
+      "readingTime": "4 min read",
+      "publishDate": "2024-07-01",
+      "hashtags": ["#Fitness", "#Health", "#Trends"],
+      "blogDetails": "Stay ahead of the curve with the latest fitness trends. From innovative workout routines to new wellness technologies, discover what's trending and how you can incorporate these trends into your own fitness regime."
+    }
+  ]
+  
